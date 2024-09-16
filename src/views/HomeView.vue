@@ -189,7 +189,7 @@ const formData = reactive({
   borderSize: 3,
   borderRadius: 12,
   borderColor: '#409eff',
-  buttonSize: 15,
+  buttonSize: 12,
   leftButtonColor: 'rgb(208,95,78)',
   middleButtonColor: 'rgb(230,176,34)',
   rightButtonColor: 'rgb(107,177,75)',
